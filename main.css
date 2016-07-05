@@ -100,32 +100,51 @@ p {
 
 }
 
-#slider {
-  overflow: hidden;
-}
-
-#slider figure img {
-  width: 1410px;
-  height: 350px;
+#slider img {
+  width: 20%;
+  margin-top: 10px;
+  margin-bottom: 10px;
   margin-left: 5px;
+  margin-right: 5px;
   display: inline-block;
   float: left;
 }
 
-#slider figure {
+#slider {
+  overflow: hidden;
   position: relative;
-  width: 100%;
+  width: 500%;
   margin: 0%;
   left: 0%;
   text-align: left;
   font-size: 0%;
   animation: 15s slider infinite;
   display: inline-block;
+
+}
+
+@media (min-width: 768px) { .container { max-width: 750px; } }
+
+figure {
+  display: inline-block;
+  margin: 5em;
+  padding-top: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  text-decoration-color: blue;
+  color: solid blue;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 10px;
+  text-align: center;
 }
 
 .footer {
   background-color: grey;
   height: 50px;
   font-style: italic;
+  text-align: right;
 
   }
