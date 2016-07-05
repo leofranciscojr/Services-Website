@@ -82,6 +82,10 @@ p {
     left: -200%;
   }
 
+  70% {
+    left: -200%;
+  }
+
   75% {
     left: -300%;
   }
@@ -100,23 +104,22 @@ p {
   overflow: hidden;
 }
 
-#slider figure image {
-  max-width: 100%;
-  height: auto;
-  border: 1px solid red;
-  float: left;
+#slider figure img {
+  width: 1410px;
+  height: 350px;
+  margin-left: 5px;
   display: inline-block;
+  float: left;
 }
 
 #slider figure {
   position: relative;
-  width: 1650px;
-  height: 290px;
+  width: 100%;
   margin: 0%;
   left: 0%;
   text-align: left;
   font-size: 0%;
-  animation: 20s slider infinite;
+  animation: 15s slider infinite;
 }
 
 .footer {
