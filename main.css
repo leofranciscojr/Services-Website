@@ -120,6 +120,7 @@ p {
   text-align: left;
   font-size: 0%;
   animation: 15s slider infinite;
+  display: inline-block;
 }
 
 .footer {
