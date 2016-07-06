@@ -102,20 +102,20 @@ p {
   text-align: left;
   font-size: 0%;
   animation: 15s slider infinite;
-  display: inline-block;
-
+  display: block;
 }
 
 .container {
   display: block;
   overflow: hidden;
-  width: 100%; /* take up full viewport width */
-  max-width: 1100px; /* if viewport is larger than 1040px, don't let it take up 100% */
-
+  width: 100%;
+  margin: 0 auto;
 }
 figure {
   display: inline-block;
-  margin: 5em;
+  position: relative;
+  margin: 5%;
+  margin-top: 7%;
   padding-top: 10px;
   background-color: grey;
 }
@@ -134,5 +134,4 @@ figcaption {
   height: 50px;
   font-style: italic;
   text-align: right;
-
-  }
+}
