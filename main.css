@@ -114,7 +114,9 @@ p {
 figure {
   display: inline-block;
   position: relative;
-  margin: 5%;
+  margin-bottom: 4%;
+  margin-left: 7%;
+  margin-right: 5%;
   margin-top: 7%;
   padding-top: 10px;
   background-color: grey;
