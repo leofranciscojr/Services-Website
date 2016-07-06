@@ -129,7 +129,7 @@ figcaption {
 
 .footer {
   background-color: grey;
-  height: 30px;
+  height: 40px;
   font-style: italic;
 
 }
@@ -138,7 +138,9 @@ figcaption {
   text-align: right;
 }
 
-.footer a {
+.footer img {
   float: left;
   display: inline-block;
+  margin: 0 auto;
+  margin-left: 2%;
 }
