@@ -131,10 +131,14 @@ figcaption {
   background-color: grey;
   height: 30px;
   font-style: italic;
-  
+
 }
 
 .footer p {
   text-align: right;
+}
 
+.footer a {
+  float: left;
+  display: inline-block;
 }
