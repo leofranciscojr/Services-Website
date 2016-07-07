@@ -98,22 +98,23 @@ header {
   text-align: left;
   font-size: 0%;
   animation: 15s slider infinite;
-  display: block;
+  display: inline-block;
 }
 
 .container {
-  display: block;
+  display: inline-block;
   overflow: hidden;
   width: 100%;
   margin: 0 auto;
 }
+.figure {
+  width: 0 auto;
+  display: inline-block;
+}
 figure {
   display: inline-block;
   position: relative;
-  margin-bottom: 4%;
-  margin-left: 7%;
-  margin-right: 5%;
-  margin-top: 7%;
+  margin-top: 5%;
   padding-top: 10px;
   background-color: grey;
 }
