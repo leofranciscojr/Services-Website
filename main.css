@@ -151,6 +151,9 @@ header {
 .figure {
   width: 0 auto;
   display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  position: relative;
 }
 figure {
   display: inline-block;
