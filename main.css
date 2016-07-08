@@ -122,20 +122,30 @@ header {
   margin: 0 auto;
 }
 
-nav ol {
-    display: list-item;
-    list-style-type: none;
-    margin-left: 20px;
-    line-height: 2;
-    font-size: 20px;
-    border: none;
+.checklist1 {
+  position: relative;
+  vertical-align: top;
+  display: list-item;
+  float: left;
+  width: 25%;
+  margin-left: 2%;
 }
 
-.services {
-  display: inline-block;
+.checklist2 {
+  position: relative;
+  vertical-align: top;
+  display: list-item;
   float: left;
-  margin-top: 5%;
-  padding-top: 10px;
+  width: 25%;
+
+}
+
+.checklist3 {
+  position: relative;
+  vertical-align: top;
+  display: list-item;
+  float: left;
+  width: 25%;
 }
 
 .figure {
