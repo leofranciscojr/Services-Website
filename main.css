@@ -16,14 +16,13 @@ h1 {
 
 body {
   background-color: skyblue;
-
+  background-size: cover;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 10px;
     overflow: hidden;
-
 }
 
 li {
@@ -32,7 +31,6 @@ li {
     font-family: arial, sans-serif;
     padding: 5px;
     border-right: 1px solid #bbb;
-
 }
 
 li a {
@@ -50,7 +48,6 @@ h2 {
   font-size: 20px;
   font-style: italic;
   color: teal;
-
 }
 
 header {
@@ -124,6 +121,23 @@ header {
   width: 100%;
   margin: 0 auto;
 }
+
+nav ol {
+    display: list-item;
+    list-style-type: none;
+    margin-left: 20px;
+    line-height: 2;
+    font-size: 20px;
+    border: none;
+}
+
+.services {
+  display: inline-block;
+  float: left;
+  margin-top: 5%;
+  padding-top: 10px;
+}
+
 .figure {
   width: 0 auto;
   display: inline-block;
@@ -148,17 +162,6 @@ figcaption {
 .footer {
   font-style: italic;
   margin: 0;
-
-}
-
-.footer p {
   text-align: center;
-
-}
-
-.footer img {
-  float: left;
-  display: inline-block;
-  margin: 0 auto;
-  margin-left: 2%;
+  color: red;
 }
