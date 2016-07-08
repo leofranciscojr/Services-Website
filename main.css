@@ -58,19 +58,35 @@ header {
 }
 
 @keyframes slider {
-  0%, 20% {
+  0%, {
     left: 0;
   }
 
-  25%, 45% {
+  20% {
+    left: 0;
+  }
+
+  25%, {
     left: -100%;
   }
 
-  50%, 70% {
+  45% {
+    left: -100%;
+  }
+
+  50%, {
     left: -200%;
   }
 
-  75%, 95% {
+  70% {
+    left: -200%;
+  }
+
+  75%, {
+    left: -300%;
+  }
+
+  95% {
     left: -300%;
   }
 
@@ -87,6 +103,7 @@ header {
   margin-left: 5px;
   margin-right: 5px;
   float: left;
+  position: relative;
 }
 
 #slider {
@@ -129,14 +146,14 @@ figcaption {
 }
 
 .footer {
-  background-color: grey;
-  height: 40px;
   font-style: italic;
+  margin: 0;
 
 }
 
 .footer p {
-  text-align: right;
+  text-align: center;
+
 }
 
 .footer img {
