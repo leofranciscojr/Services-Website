@@ -142,12 +142,17 @@ nav ol {
   width: 0 auto;
   display: inline-block;
 }
+
 figure {
   display: inline-block;
   position: relative;
   margin-top: 5%;
   padding-top: 10px;
   background-color: grey;
+}
+
+.figure img {
+  margin-left: 20%;
 }
 
 figcaption {
