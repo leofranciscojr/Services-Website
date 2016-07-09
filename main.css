@@ -141,6 +141,7 @@ nav ol {
 .figure {
   width: 0 auto;
   display: inline-block;
+  margin-rigth: 20%;
 }
 
 figure {
@@ -149,10 +150,6 @@ figure {
   margin-top: 5%;
   padding-top: 10px;
   background-color: grey;
-}
-
-.figure img {
-  margin-left: 20%;
 }
 
 figcaption {
