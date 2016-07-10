@@ -144,7 +144,9 @@ nav ol {
 figure {
   display: inline-block;
   position: relative;
+  max-width: 10px;
   margin-top: 5%;
+  margin-bottom: 10%;
   padding-top: 10px;
   background-color: grey;
 }
