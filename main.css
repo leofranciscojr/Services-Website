@@ -122,14 +122,18 @@ header {
   margin: 0 auto;
 }
 
+.services {
+  display: inline-block;
+  float: left;
+  margin-bottom: 10%;
+}
+
 nav ol {
   display: list-item;
   list-style-type: none;
   line-height: 2;
   font-size: 15px;
   border: none;
-  margin-top: 5%;
-  margin-bottom: 10%;
   margin-left: 5%;
   margin-right: 5%;
 }
