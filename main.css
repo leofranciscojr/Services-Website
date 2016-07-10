@@ -127,7 +127,7 @@ ul.webdev {
 }
 
 li.webdev {
-  color: teal;
+  color: black;
   font-weight: bold;
   font-family: arial serif;
   position: relative;
@@ -148,7 +148,7 @@ ul.comrep {
 }
 
 li.comrep {
-  color: teal;
+  color: black;
   font-weight: bold;
   font-family: arial serif;
   position: relative;
@@ -169,7 +169,7 @@ ul.netrep {
 }
 
 li.netrep {
-  color: teal;
+  color: black;
   font-weight: bold;
   font-family: arial serif;
   position: relative;
