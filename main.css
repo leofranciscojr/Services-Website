@@ -123,6 +123,7 @@ header {
 }
 
 ul {
+  display: inline-block;
   list-style: none;
   margin: 0 auto;
   padding: 0;
@@ -136,8 +137,6 @@ ul {
   margin-left: 7%;
   padding-left: 40px;
   position: relative;
-  height: 100px;
-  width: 200px;
 }
 
 .figure {
