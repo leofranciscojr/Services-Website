@@ -114,6 +114,8 @@ li a {
 .pix {
   box-sizing: border-box;
   margin-left: 7%;
+  display: inline-block;
+  float: left;
 }
 
 ul.webdev {
