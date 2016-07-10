@@ -115,7 +115,7 @@ li a {
   display: inline-block;
   box-sizing: border-box;
   width: 90%;
-  margin: 50px auto;
+  margin: 10px auto;
 }
 
 ul.webdev {
@@ -131,8 +131,7 @@ li.webdev {
   font-family: arial serif;
   position: relative;
   padding-left: 40px;
-  margin-left: 100px;
-  margin-right: 200px;
+  
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
@@ -152,8 +151,7 @@ li.comrep {
   font-family: arial serif;
   position: relative;
   padding-left: 40px;
-  margin-left: 150px;
-  margin-right: 200px;
+  
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
@@ -173,8 +171,7 @@ li.netrep {
   font-family: arial serif;
   position: relative;
   padding-left: 40px;
-  margin-left: 50px;
-  margin-right: 200px;
+  
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
