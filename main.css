@@ -114,8 +114,8 @@ li a {
 .pix {
   box-sizing: border-box;
   margin-left: 7%;
+  margin-bottom: 5%;
   display: inline-block;
-  
 }
 
 ul.webdev {
@@ -130,7 +130,6 @@ li.webdev {
   padding-left: 40px;
   margin-left: 100px;
   margin-right: 225px;
-  margin-bottom: 5%;
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
@@ -147,9 +146,8 @@ ul.comrep {
 li.comrep {
   position: relative;
   padding-left: 40px;
-  margin-left: 100px;
+  margin-left: 150px;
   margin-right: 200px;
-  margin-bottom: 5%;
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
@@ -168,7 +166,6 @@ li.netrep {
   padding-left: 40px;
   margin-left: 100px;
   margin-right: 200px;
-  margin-bottom: 5%;
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
