@@ -123,17 +123,19 @@ header {
 }
 
 nav ol {
-    display: list-item;
-    list-style-type: none;
-    margin-left: 15px;
-    line-height: 2;
-    font-size: 15px;
-    border: none;
+  display: list-item;
+  list-style-type: none;
+  line-height: 2;
+  font-size: 15px;
+  border: none;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .services {
   display: list-item;
-  list-style-type: none;
   margin-top: 5%;
   margin-bottom: 10%;
   padding-top: 10px;
