@@ -159,7 +159,8 @@ li.comrep {
 }
 
 ul.netrep {
-  margin: 0 5%;
+  margin-left: 6%;
+  margin-right: auto;
   padding: 0;
   display: inline-block;
   box-sizing: border-box;
