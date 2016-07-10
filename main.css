@@ -134,13 +134,6 @@ nav ol {
   margin-right: 5%;
 }
 
-.services {
-  display: list-item;
-  margin-top: 5%;
-  margin-bottom: 10%;
-  padding-top: 10px;
-}
-
 .figure {
   width: 0 auto;
   display: inline-block;
