@@ -119,7 +119,7 @@ li a {
 }
 
 ul.webdev {
-  margin: 0 7%;
+  margin: 0 5%;
   padding: 0;
   display: inline-block;
   box-sizing: border-box;
@@ -139,7 +139,7 @@ li.webdev {
 }
 
 ul.comrep {
-  margin: 0 7%;
+  margin: 0 5%;
   padding: 0;
   display: inline-block;
   box-sizing: border-box;
@@ -159,7 +159,7 @@ li.comrep {
 }
 
 ul.netrep {
-  margin: 0 7%;
+  margin: 0 5%;
   padding: 0;
   display: inline-block;
   box-sizing: border-box;
