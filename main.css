@@ -97,8 +97,6 @@ li a {
   position: relative;
   width: 500%;
   margin: 0%;
-  left: 0%;
-  text-align: left;
   font-size: 0%;
   animation: 15s slider infinite;
   display: inline-block;
@@ -107,7 +105,7 @@ li a {
 .container {
   display: inline-block;
   overflow: hidden;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
 }
 
