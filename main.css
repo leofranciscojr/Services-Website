@@ -126,6 +126,44 @@ ul.webdev {
 li.webdev {
   position: relative;
   padding-left: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-sizing: border-box;
+  list-style: none;
+  text-align: -webkit-match-parent;
+  display: list-item;
+}
+
+ul.comrep {
+  margin: 0;
+  padding: 0;
+  display: block;
+  box-sizing: border-box;
+}
+
+li.comrep {
+  position: relative;
+  padding-left: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-sizing: border-box;
+  list-style: none;
+  text-align: -webkit-match-parent;
+  display: list-item;
+}
+
+ul.netrep {
+  margin: 0;
+  padding: 0;
+  display: block;
+  box-sizing: border-box;
+}
+
+li.netrep {
+  position: relative;
+  padding-left: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
@@ -159,7 +197,7 @@ figcaption {
   text-align: center;
 }
 
-.footer {
+footer {
   font-style: italic;
   margin: 0;
   text-align: center;
