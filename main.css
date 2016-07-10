@@ -123,17 +123,23 @@ header {
 }
 
 ul {
-  display: inline-block;
   list-style: none;
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   display: block;
   box-sizing: border-box;
 }
 
+li {
+  box-sizing: border-box;
+  list-style: none;
+  text-align: -webkit-match-parent;
+  display: list-item;
+}
+
 .list-item {
   float: left;
-  display: inline-block;
+  box-sizing: border-box;
   margin-left: 7%;
   padding-left: 40px;
   position: relative;
