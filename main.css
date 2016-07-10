@@ -131,6 +131,9 @@ ul {
 }
 
 .list-item {
+  float: left;
+  display: inline-block;
+  margin-left: 7%;
   padding-left: 40px;
   position: relative;
   height: 100px;
