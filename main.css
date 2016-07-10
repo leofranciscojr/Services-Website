@@ -183,10 +183,8 @@ li.netrep {
 }
 
 .figure {
-  width: 0 auto;
-  display: inline-block;
-  margin-left: 7%;
-  margin-right: 5%;
+  width: 90%;
+  margin: 50px auto;
 }
 
 figure {
