@@ -119,7 +119,7 @@ li a {
 }
 
 ul.webdev {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   display: inline-block;
   box-sizing: border-box;
@@ -129,7 +129,7 @@ li.webdev {
   position: relative;
   padding-left: 40px;
   margin-left: 100px;
-  margin-right: 100px;
+  margin-right: 300px;
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
@@ -137,7 +137,7 @@ li.webdev {
 }
 
 ul.comrep {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   display: inline-block;
   box-sizing: border-box;
@@ -147,7 +147,7 @@ li.comrep {
   position: relative;
   padding-left: 40px;
   margin-left: 100px;
-  margin-right: 100px;
+  margin-right: 300px;
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
@@ -155,7 +155,7 @@ li.comrep {
 }
 
 ul.netrep {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   display: inline-block;
   box-sizing: border-box;
@@ -165,7 +165,7 @@ li.netrep {
   position: relative;
   padding-left: 40px;
   margin-left: 100px;
-  margin-right: 100px;
+  margin-right: 300px;
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
