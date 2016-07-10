@@ -112,11 +112,10 @@ li a {
 }
 
 .pix {
-  box-sizing: border-box;
-  margin-left: 7%;
-  margin-bottom: 5%;
-  margin-top: 2%;
   display: inline-block;
+  box-sizing: border-box;
+  width: 90%;
+  margin: 50px auto;
 }
 
 ul.webdev {
@@ -191,7 +190,6 @@ figure {
   display: inline-block;
   position: relative;
   margin-top: 7%;
-  
   padding-top: 10px;
   background-color: grey;
 }
