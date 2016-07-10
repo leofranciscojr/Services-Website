@@ -131,11 +131,11 @@ li.webdev {
   font-family: arial serif;
   position: relative;
   padding-left: 40px;
-  
   box-sizing: border-box;
   list-style: none;
   text-align: -webkit-match-parent;
   display: list-item;
+  vertical-align: top;
 }
 
 ul.comrep {
