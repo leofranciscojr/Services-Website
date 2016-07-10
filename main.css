@@ -135,7 +135,6 @@ li.webdev {
   list-style: none;
   text-align: -webkit-match-parent;
   display: list-item;
-  vertical-align: top;
 }
 
 ul.comrep {
