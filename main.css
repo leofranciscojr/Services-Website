@@ -123,25 +123,24 @@ header {
 }
 
 nav ol {
-    display: list-item;
-    list-style-type: none;
-    margin-left: 20px;
-    line-height: 2;
-    font-size: 20px;
-    border: none;
-}
-
-.services {
-  display: inline-block;
-  float: left;
+  display: list-item;
+  list-style-type: none;
+  line-height: 2;
+  font-size: 15px;
+  border: none;
   margin-top: 5%;
-  padding-top: 10px;
+  margin-bottom: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .figure {
   width: 0 auto;
   display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
 }
+
 figure {
   display: inline-block;
   position: relative;
