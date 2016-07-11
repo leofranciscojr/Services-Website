@@ -38,10 +38,12 @@ fieldset {
 }
 h3 {
   margin-top: 5%;
+  text-align: center;
 }
 footer {
   font-style: italic;
-  margin: 50px 0 0 0;
+  margin-top: 50px;
+  margin-bottom: 0px;
   text-align: center;
   color: red;
 }
