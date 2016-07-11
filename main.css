@@ -113,7 +113,7 @@ li a {
 .pix {
   display: inline-block;
   box-sizing: border-box;
-  width: 90%;
+  width: 80%;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 5%;
@@ -180,7 +180,7 @@ li.netrep {
 }
 
 .figure {
-  width: 90%;
+  width: 80%;
   margin: 50px auto;
 }
 
