@@ -1,8 +1,8 @@
 img {
   border-radius: 50%;
-  border: 0;
+  border: 10px;
   vertical-align: top;
-  float: left;
+  position: relative;
 }
 
 .navbar {
@@ -17,20 +17,42 @@ img {
   z-index: 1000;
 }
 
-p {
-  float:right;
+li {
+  list-style-type: none;
+}
+
+body {
+  background-color: #aaaaff;
+  max-height: auto;
 }
 
 .container {
-  max-width: 640px;
+  max-width: 50%;
   padding-right: .9375rem;
   padding-left: .9375rem;
   margin-right: auto;
   margin-left: auto;
-  background-color: #aaaaff;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-footer {
+.profile {
+  margin-bottom: 12em;
+  margin-left: 15em;
+  display: inline-block;
+  max-width: 440px;
+  text-align: justify;
+  text-indent: 2em;
+  padding-right: .9375rem;
+  padding-left: .9375rem;
+}
+
+.p {
+  text-align: justify;
+  line-height: 2%;
+}
+
+.footer {
   font-style: italic;
   margin: 0;
   text-align: center;
