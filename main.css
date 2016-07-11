@@ -92,6 +92,7 @@ li a {
   margin: 0% auto;
   float: left;
   position: relative;
+  overflow: hidden;
 }
 
 #slider {
