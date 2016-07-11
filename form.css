@@ -1,6 +1,10 @@
 div {
   display: block;
 }
+body {
+  background-color: #aaaaff;
+  background-size: cover;
+}
 .container {
   max-width: 940px;
   padding-right: .9375rem;
