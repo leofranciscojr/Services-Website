@@ -136,7 +136,7 @@ li.webdev {
   padding-left: 40px;
   box-sizing: border-box;
   list-style: none;
-  
+  text-align: -webkit-match-parent;
   display: list-item;
 }
 
