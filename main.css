@@ -12,6 +12,10 @@ body {
   background-size: cover;
 }
 
+.img {
+  overflow: hidden;
+}
+
 .info {
   float: right;
   padding: 0;
