@@ -1,0 +1,39 @@
+img {
+  border-radius: 50%;
+  border: 0;
+  vertical-align: top;
+  float: left;
+}
+
+.navbar {
+  background-color: green;
+  list-style-type: none;
+  color: red;
+  position: relative;
+  padding: .5rem 1rem;
+}
+.navbar-full {
+  border-radius: 0;
+  z-index: 1000;
+}
+
+p {
+  float:right;
+}
+
+.container {
+  max-width: 640px;
+  padding-right: .9375rem;
+  padding-left: .9375rem;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #aaaaff;
+}
+
+footer {
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+  color: red;
+  z-index: 1000;
+}
