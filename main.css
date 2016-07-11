@@ -89,9 +89,7 @@ li a {
 
 #slider img {
   width: 20%;
-  margin: 0%;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 0% auto;
   float: left;
   position: relative;
 }
