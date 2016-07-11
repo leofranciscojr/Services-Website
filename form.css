@@ -42,7 +42,8 @@ h3 {
 }
 .footer {
   font-style: italic;
-  margin-top: 50px;
+  margin: 0;
   text-align: center;
   color: red;
+  z-index: 1000;
 }
