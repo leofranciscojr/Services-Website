@@ -36,7 +36,8 @@ h3 {
   margin-top: 5%;
 }
 footer {
-  margin: 10px;
-  float: left;
-  position: fixed;
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+  color: red;
 }
