@@ -105,7 +105,7 @@ li a {
 
 .container {
   display: inline-block;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
   overflow: hidden;
 }
@@ -113,7 +113,7 @@ li a {
 .pix {
   display: inline-block;
   box-sizing: border-box;
-  width: 80%;
+  width: 90%;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 5%;
@@ -180,7 +180,7 @@ li.netrep {
 }
 
 .figure {
-  width: 80%;
+  width: 90%;
   margin: 50px auto;
 }
 
