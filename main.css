@@ -90,6 +90,8 @@ li a {
 #slider img {
   width: 20%;
   margin: 0% auto;
+  margin-left: 5px;
+  margin-right: 5px;
   float: left;
   position: relative;
 }
@@ -106,7 +108,6 @@ li a {
 
 .container {
   display: inline-block;
-  
   width: 100%;
   margin: 0 auto;
 }
