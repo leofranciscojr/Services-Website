@@ -89,7 +89,7 @@ li a {
 
 #slider img {
   width: 20%;
-  margin: 0 auto;
+  margin: 0% auto;
   float: left;
   position: relative;
 }
@@ -106,7 +106,7 @@ li a {
 
 .container {
   display: inline-block;
-  overflow: hidden;
+  
   width: 100%;
   margin: 0 auto;
 }
