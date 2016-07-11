@@ -119,7 +119,7 @@ li a {
 
 ul.webdev {
   margin: 0 8%;
-  padding: 10px;
+  padding-left: 10px;
   display: inline-block;
   box-sizing: border-box;
 }
