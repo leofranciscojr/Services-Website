@@ -10,6 +10,7 @@ h1 {
 body {
   background-color: #aaaaff;
   background-size: cover;
+  max-width: 100%;
 }
 
 .img {
