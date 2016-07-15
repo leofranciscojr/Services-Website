@@ -17,7 +17,7 @@ body {
   overflow: hidden;
 }
 
-img:hover {
+.img:hover {
   color: yellow teal;
   background-color: yellow teal;
 }
