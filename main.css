@@ -89,12 +89,10 @@ li a {
 }
 
 #slider img {
-  width: 19%;
+  width: 20%;
   margin: 0% auto;
   float: left;
   position: relative;
-  margin-right: 5px;
-  margin-left: 3px;
 }
 
 #slider {
