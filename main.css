@@ -93,7 +93,8 @@ li a {
   margin: 0% auto;
   float: left;
   position: relative;
-  margin-right: 1%;
+  margin-right: 3px;
+  margin-left: 1px;
 }
 
 #slider {
