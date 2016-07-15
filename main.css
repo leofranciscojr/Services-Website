@@ -19,6 +19,7 @@ body {
 
 img:hover {
   color: yellow teal;
+  background-color: yellow teal;
 }
 
 .info {
